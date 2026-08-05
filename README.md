@@ -1,53 +1,53 @@
-# Hi, I'm Ubaid Ahmad 👋
+<h1 align="center">Hi 👋, I'm Ubaid Ahmad</h1>
 
-### B.Tech CSE 2026 | Python Backend Developer | AI/ML Enthusiast
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=700&speed=40&color=58A6FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Python+Backend+Developer;AI%2FML+%26+GenAI+Enthusiast;Building+Practical+AI-Powered+Applications;Open+to+SWE%2FML+Trainee+Roles" alt="Typing SVG" />
+  </a>
+</p>
 
-I am a B.Tech CSE 2026 graduate with hands-on experience in Python,
-Flask, REST APIs, Machine Learning, Deep Learning, and software development.
+<p align="center">
+  B.Tech CSE 2026 • CGPA 8.8/10 • Delhi NCR
+</p>
 
-- 🎓 B.Tech CSE 2026 | CGPA: 8.8/10
+### Building practical applications with Python, Backend Development, and AI/ML
+
+I am a Computer Science Engineering graduate with hands-on experience in Python,
+Flask, REST APIs, Machine Learning, Deep Learning, and AI-powered application development.
+
+- 🎓 B.Tech CSE | CGPA: 8.8/10
 - 💻 Interested in Software Engineering, Python Backend, AI/ML, and GenAI
 - 🧠 Solved 200+ problems on LeetCode
 - 🏢 Cyber Security Intern at CDAC Noida
 - 📍 Based in Delhi NCR
-- 💼 Open to Software Engineer, Python Developer, AI/ML Intern,
-  Developer Trainee, Internship, and Apprenticeship roles
+- 💼 Open to Software Engineer, Python Developer, AI/ML Intern, Developer Trainee, Internship, and Apprenticeship roles
 
 ## 🛠️ Technical Skills
 
-**Languages**
+## 🛠️ Tech Stack
 
-Python • Java • C • SQL • HTML/CSS • Dart
-
-**Backend & Development**
-
-Flask • Django • REST APIs • Webhooks • Git • GitHub • Docker
-
-**AI/ML**
-
-NumPy • Pandas • Scikit-learn • TensorFlow • Keras • OpenCV • NLP
-
-**Cloud & Tools**
-
-Linux • AWS • GCP • Flutter
+**Languages:** Python, Java, C, SQL, HTML/CSS, Dart  
+**Backend:** Flask, Django, REST APIs, Webhooks  
+**AI/ML:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, NLP  
+**Tools:** Git, GitHub, Docker, Linux, AWS, GCP, Flutter
 
 ## 🚀 Featured Projects
 
-### Intelligent SLA Escalation Router
+### [Sentiment Guard (AI Escalation Router) 🚀](https://github.com/ubaidahmad786/sentiment-guard-AI-escalation-router)
 
 Python • Flask • VADER NLP • REST APIs • Slack API
 
 A real-time support-message processing system that analyzes customer
 sentiment and automatically escalates high-priority conversations.
 
-### Skin Disease Detection System
+### [Skin Disease Detection System](https://github.com/ubaidahmad786/skin-disease-detection)
 
 Python • TensorFlow • Keras • CNN • OpenCV • Flask
 
 A deep-learning image classification application with a Flask-based
 backend for real-time prediction.
 
-### Telecom Customer Churn Prediction
+### [Telecom Customer Churn Prediction](https://github.com/ubaidahmad786/telecom-customer-churn)
 
 Python • Scikit-learn • Machine Learning
 
